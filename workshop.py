@@ -1,4 +1,6 @@
-palavras_possíveis = ["arroz", "tamandua"]
+palavras_possívei = [ "tamandua"]
+
+palavra = input("Digite uma palavra: ")
 
 def forca(palavra):
     sorteio = random.int()
