@@ -5,7 +5,11 @@ palavra = input("Digite uma palavra: ")
 
 
 #teste teste test teste
+<<<<<<< HEAD
 #deve dar conflito com oque vc escreveu
+=======
+#outro teste kkkk
+>>>>>>> 334f3db0f0ff6b0e6439589695a5e4bc9c54ae2f
 
 def forca(palavra):
     sorteio = random.int()
