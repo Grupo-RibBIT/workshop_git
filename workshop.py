@@ -5,7 +5,7 @@ palavra = input("Digite uma palavra: ")
 
 
 #teste teste test teste
-
+#outro teste kkkk
 
 def forca(palavra):
     sorteio = random.int()
