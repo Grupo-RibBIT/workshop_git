@@ -1,5 +1,10 @@
 palavras_possíveis = ["arroz", "tamandua"]
 
+
+
+#teste teste test teste
+
+
 def forca(palavra):
     sorteio = random.int()
     palavra_sorteada = palavra[sorteio]
