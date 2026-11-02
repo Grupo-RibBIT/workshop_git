@@ -5,7 +5,7 @@ palavra = input("Digite uma palavra: ")
 
 
 #teste teste test teste
-
+#deve dar conflito com oque vc escreveu
 
 def forca(palavra):
     sorteio = random.int()
